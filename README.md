@@ -1,7 +1,9 @@
 # ETC3430---Assigment---MarkovChain-VariableAnnuities
 ETC3430 (Financial Mathematics under uncertainty) Assignment (2023, T1) - High Distinction Grade (100%)
-The goal of this project is to calculate the appropriate price of a variable annuity for policyholders based on their age and their choice of investment options.
+
 ## Variable Annuity Pricing
+
+The goal of this project is to calculate the appropriate price of a variable annuity for policyholders based on their age and their choice of investment options.
 
 ## Overview
 
