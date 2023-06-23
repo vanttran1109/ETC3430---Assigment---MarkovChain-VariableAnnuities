@@ -1,4 +1,4 @@
-# ETC3430---Assigment---MarkovChain-VariableAnnuities
+# ETC3430---Assignment---MarkovChain-VariableAnnuities
 ETC3430 (Financial Mathematics under uncertainty) Assignment (2023, T1) - High Distinction Grade (100%)
 
 ## Variable Annuity Pricing
